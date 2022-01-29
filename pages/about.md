@@ -6,9 +6,8 @@ feature-img: "assets/img/pexels/travel.jpeg"
 tags: [Page]
 ---
 
-Type on Strap is based on Type Theme, a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+Hi! My name is Diwas Puri and I am a fulltime banker, enthusiastic about technology, finance and art. Here, I write about myriad of things that I find worth sharing with others.
 
-Head over to the [theme's documentation](https://github.io/sylhare/Type-on-Strap) for much more information about Type on Strap or to install this theme on your own Jekyll site.
+> All views expressed on this site are my own and do not represent the opinions of any entity whatsoever with which I have been, am now, or will be affiliated.
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
  
